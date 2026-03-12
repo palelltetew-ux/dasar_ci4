@@ -1,0 +1,475 @@
+CRITICAL - 2026-03-12 01:43:37 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:43:40 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:43:43 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:44:02 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:45:49 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:45:50 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:45:50 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:45:51 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:46:06 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:46:10 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:46:11 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:47:06 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:47:08 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:47:31 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:49:43 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:50:51 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:50:53 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:50:53 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:50:53 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:50:54 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:54:29 --> Error: Class "App\Models\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:56:03 --> Error: Class "App\Controllers\Barang_model" not found
+[Method: GET, Route: barang]
+in APPPATH\Controllers\barang.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:56:59 --> Error: Class "Codeigniter\Model" not found
+[Method: GET, Route: barang]
+in APPPATH\Models\barang_model.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\XI RPL 2 CI\\app\\Models\\Barang_model.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Barang_model')
+ 4 APPPATH\Controllers\barang.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Barang_model')
+ 5 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 01:58:39 --> Error: Class "Codeigniter\Model" not found
+[Method: GET, Route: barang]
+in APPPATH\Models\barang_model.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\XI RPL 2 CI\\app\\Models\\Barang_model.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Barang_model')
+ 4 APPPATH\Controllers\barang.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Barang_model')
+ 5 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+ERROR - 2026-03-12 01:59:17 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\laragon\www\XI RPL 2 CI\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\XI RPL 2 CI\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'dasar_ci', 3306, '', 0)
+#1 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\XI RPL 2 CI\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\XI RPL 2 CI\system\Model.php(254): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\XI RPL 2 CI\system\BaseModel.php(675): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\XI RPL 2 CI\app\Models\barang_model.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\XI RPL 2 CI\app\Controllers\barang.php(13): App\Models\Barang_model->getBarang()
+#8 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(951): App\Controllers\barang->index()
+#9 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+#10 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\XI RPL 2 CI\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\XI RPL 2 CI\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\XI RPL 2 CI\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\XI RPL 2 CI\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\laragon\www\XI RPL 2 CI\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\XI RPL 2 CI\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\XI RPL 2 CI\system\Model.php(254): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\XI RPL 2 CI\system\BaseModel.php(675): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\XI RPL 2 CI\app\Models\barang_model.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\XI RPL 2 CI\app\Controllers\barang.php(13): App\Models\Barang_model->getBarang()
+#7 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(951): App\Controllers\barang->index()
+#8 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+#9 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\XI RPL 2 CI\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\XI RPL 2 CI\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\XI RPL 2 CI\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\XI RPL 2 CI\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2026-03-12 01:59:17 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: barang]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `barang`', [], false)
+ 3 SYSTEMPATH\Model.php(254): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(675): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\barang_model.php(14): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\barang.php(13): App\Models\Barang_model->getBarang()
+ 7 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+ERROR - 2026-03-12 02:04:52 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\laragon\www\XI RPL 2 CI\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\XI RPL 2 CI\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'dasar_ci', 3306, '', 0)
+#1 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\XI RPL 2 CI\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\XI RPL 2 CI\system\Model.php(254): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\XI RPL 2 CI\system\BaseModel.php(675): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\XI RPL 2 CI\app\Models\barang_model.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\XI RPL 2 CI\app\Controllers\barang.php(13): App\Models\Barang_model->getBarang()
+#8 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(951): App\Controllers\barang->index()
+#9 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+#10 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\XI RPL 2 CI\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\XI RPL 2 CI\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\XI RPL 2 CI\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\XI RPL 2 CI\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\laragon\www\XI RPL 2 CI\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\XI RPL 2 CI\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\XI RPL 2 CI\system\Model.php(254): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\XI RPL 2 CI\system\BaseModel.php(675): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\XI RPL 2 CI\app\Models\barang_model.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\XI RPL 2 CI\app\Controllers\barang.php(13): App\Models\Barang_model->getBarang()
+#7 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(951): App\Controllers\barang->index()
+#8 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+#9 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\XI RPL 2 CI\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\XI RPL 2 CI\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\XI RPL 2 CI\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\XI RPL 2 CI\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2026-03-12 02:04:52 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: barang]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `barang`', [], false)
+ 3 SYSTEMPATH\Model.php(254): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(675): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\barang_model.php(14): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\barang.php(13): App\Models\Barang_model->getBarang()
+ 7 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+ERROR - 2026-03-12 02:04:57 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\laragon\www\XI RPL 2 CI\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\XI RPL 2 CI\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'dasar_ci', 3306, '', 0)
+#1 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\XI RPL 2 CI\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\XI RPL 2 CI\system\Model.php(254): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\XI RPL 2 CI\system\BaseModel.php(675): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\XI RPL 2 CI\app\Models\barang_model.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\XI RPL 2 CI\app\Controllers\barang.php(13): App\Models\Barang_model->getBarang()
+#8 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(951): App\Controllers\barang->index()
+#9 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+#10 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\XI RPL 2 CI\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\XI RPL 2 CI\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\XI RPL 2 CI\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\XI RPL 2 CI\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\laragon\www\XI RPL 2 CI\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\XI RPL 2 CI\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\XI RPL 2 CI\system\Model.php(254): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\XI RPL 2 CI\system\BaseModel.php(675): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\XI RPL 2 CI\app\Models\barang_model.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\XI RPL 2 CI\app\Controllers\barang.php(13): App\Models\Barang_model->getBarang()
+#7 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(951): App\Controllers\barang->index()
+#8 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+#9 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\XI RPL 2 CI\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\XI RPL 2 CI\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\XI RPL 2 CI\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\XI RPL 2 CI\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2026-03-12 02:04:57 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: barang]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `barang`', [], false)
+ 3 SYSTEMPATH\Model.php(254): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(675): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\barang_model.php(14): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\barang.php(13): App\Models\Barang_model->getBarang()
+ 7 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+ERROR - 2026-03-12 02:04:58 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\laragon\www\XI RPL 2 CI\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\XI RPL 2 CI\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'dasar_ci', 3306, '', 0)
+#1 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\XI RPL 2 CI\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\XI RPL 2 CI\system\Model.php(254): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\XI RPL 2 CI\system\BaseModel.php(675): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\XI RPL 2 CI\app\Models\barang_model.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\XI RPL 2 CI\app\Controllers\barang.php(13): App\Models\Barang_model->getBarang()
+#8 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(951): App\Controllers\barang->index()
+#9 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+#10 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\XI RPL 2 CI\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\XI RPL 2 CI\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\XI RPL 2 CI\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\XI RPL 2 CI\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\laragon\www\XI RPL 2 CI\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\XI RPL 2 CI\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\XI RPL 2 CI\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\XI RPL 2 CI\system\Model.php(254): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\XI RPL 2 CI\system\BaseModel.php(675): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\XI RPL 2 CI\app\Models\barang_model.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\XI RPL 2 CI\app\Controllers\barang.php(13): App\Models\Barang_model->getBarang()
+#7 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(951): App\Controllers\barang->index()
+#8 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+#9 C:\laragon\www\XI RPL 2 CI\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\XI RPL 2 CI\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\XI RPL 2 CI\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\XI RPL 2 CI\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\XI RPL 2 CI\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2026-03-12 02:04:58 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: barang]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `barang`', [], false)
+ 3 SYSTEMPATH\Model.php(254): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(675): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\barang_model.php(14): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\barang.php(13): App\Models\Barang_model->getBarang()
+ 7 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\barang->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\barang))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
+CRITICAL - 2026-03-12 02:30:50 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\Barang_model::saveBarang
+[Method: POST, Route: barang/add]
+in SYSTEMPATH\Model.php on line 758.
+ 1 APPPATH\Controllers\barang.php(38): CodeIgniter\Model->__call('saveBarang', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Barang->add()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\XI RPL 2 CI\\public\\index.php')
